@@ -1,6 +1,12 @@
 # [Hate Kolome Javascript - By Zonayed Ahmed](https://www.rokomari.com/book/202772/hate-kolome-javascript)
 Javascript fundamentals book written by Zonayed Ahmed
 
+<div align="center">
+    <a href="https://www.rokomari.com/book/202772/hate-kolome-javascript">
+        <img src="../hate-kolome-javascript.jpg"  width="300" height="300" alt="hate-kolome-javascript">
+    </a>
+</div>
+
 __Js Basic__
 
 - what, Why, When ?

@@ -1,4 +1,4 @@
-# Javascript-By-Zonayed-Ahmed
+# [Hate Kolome Javascript - By Zonayed Ahmed](https://www.rokomari.com/book/202772/hate-kolome-javascript)
 Javascript fundamentals book written by Zonayed Ahmed
 
 __Js Basic__
